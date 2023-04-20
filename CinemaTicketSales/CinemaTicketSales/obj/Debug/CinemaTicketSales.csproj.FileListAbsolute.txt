@@ -1,0 +1,11 @@
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\bin\Debug\CinemaTicketSales.exe.config
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\bin\Debug\CinemaTicketSales.exe
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\bin\Debug\CinemaTicketSales.pdb
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\obj\Debug\CinemaTicketSales.csproj.AssemblyReference.cache
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\obj\Debug\CinemaTicketSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\obj\Debug\CinemaTicketSales.Form1.resources
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\obj\Debug\CinemaTicketSales.Properties.Resources.resources
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\obj\Debug\CinemaTicketSales.csproj.GenerateResource.cache
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\obj\Debug\CinemaTicketSales.csproj.CoreCompileInputs.cache
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\obj\Debug\CinemaTicketSales.exe
+C:\Users\Haydar\Desktop\C#\Araçkutusu4\CinemaTicketSales\CinemaTicketSales\obj\Debug\CinemaTicketSales.pdb
